@@ -31,7 +31,7 @@ Neste laboratório, foi criado um orçamento de **US$ 10**, com uma notificaçã
 
 Primeiro, acesse o serviço **AWS Budgets** e clique em **Criar orçamento**.
 
-![Criar orçamento](01-AWS-Budgets/01-criar-orcamento.png)
+![Criar orçamento](./01-criar-orcamento.png)
 
 ---
 
@@ -39,7 +39,7 @@ Primeiro, acesse o serviço **AWS Budgets** e clique em **Criar orçamento**.
 
 Na tela de criação, selecione **Personalizar (Avançado)**.
 
-![Personalizar orçamento](01-AWS-Budgets/02-personalizar-orcamento.png)
+![Personalizar orçamento](./02-personalizar-orcamento.png)
 
 ---
 
@@ -47,7 +47,7 @@ Na tela de criação, selecione **Personalizar (Avançado)**.
 
 Configure o orçamento com o valor de **US$ 10**.
 
-![Definindo o orçamento](01-AWS-Budgets/03-definindo-orcamento.png)
+![Definindo o orçamento](./03-definindo-orcamento.png)
 
 ---
 
@@ -55,7 +55,7 @@ Configure o orçamento com o valor de **US$ 10**.
 
 Adicione um limite de alerta de **10% do valor orçado** e mantenha o acionador como **Real**.
 
-![Configurando alerta](01-AWS-Budgets/04-alerta.png)
+![Configurando alerta](./04-alerta.png)
 
 ---
 
@@ -63,7 +63,7 @@ Adicione um limite de alerta de **10% do valor orçado** e mantenha o acionador 
 
 Revise as configurações antes de criar o orçamento.
 
-![Revisão](01-AWS-Budgets/05-revisao.png)
+![Revisão](./05-revisao.png)
 
 ---
 
@@ -71,7 +71,7 @@ Revise as configurações antes de criar o orçamento.
 
 Após revisar as configurações, clique em **Criar orçamento**.
 
-![Criar orçamento](01-AWS-Budgets/06-criar-orcamento.png)
+![Criar orçamento](./06-criar-orcamento.png)
 
 ---
 
@@ -79,4 +79,4 @@ Após revisar as configurações, clique em **Criar orçamento**.
 
 Por fim, valide as informações do orçamento criado, incluindo o valor configurado e o valor utilizado.
 
-![Tela final](01-AWS-Budgets/07-tela-final.png)
+![Tela final](./07-tela-final.png)
