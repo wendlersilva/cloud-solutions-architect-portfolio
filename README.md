@@ -23,10 +23,11 @@ Os principais objetivos deste portfólio são:
 
 ## 🧪 Laboratórios
 
-| # | Laboratório | Principais tópicos | Status |
-|---|---|---|---|
-| 01 | Em breve | — | 🟡 Em andamento |
-| 02 | — | — | ⚪ Planejado |
-| 03 | — | — | ⚪ Planejado |
+| #  | Laboratório                                                                | Principais tópicos                                                    | Status       |
+| -- | -------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------ |
+| 01 | [AWS Budgets — Controle de Custos](./01%20-%20AWS-Budgets/)                      | Controle de custos, orçamento, alertas e monitoramento                | 🟢 Concluído |
+| 02 | [AWS STS — Credenciais Temporárias](./02%20-%20AWS-STS-Credenciais-Temporarias/) | AWS STS, IAM Role, AssumeRole, credenciais temporárias e Trust Policy | 🟢 Concluído |
+| 03 | —                                                                          | —                                                                     | ⚪ Planejado  |
+
 
 > Esta tabela será atualizada conforme novos laboratórios forem concluídos.
