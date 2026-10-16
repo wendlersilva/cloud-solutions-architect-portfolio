@@ -1,4 +1,4 @@
-# AWS EC2, Auto Scaling Group e Application Load Balancer
+# ☁️ AWS EC2, Auto Scaling Group e Application Load Balancer
 
 ## Objetivo
 
