@@ -28,7 +28,8 @@ Os principais objetivos deste portfólio são:
 | 01 | [AWS Budgets — Controle de Custos](./01%20-%20AWS-Budgets/)                      | Controle de custos, orçamento, alertas e monitoramento                | 🟢 Concluído |
 | 02 | [AWS STS — Credenciais Temporárias](./02%20-%20AWS-STS-Credenciais-Temporarias/) | AWS STS, IAM Role, AssumeRole, credenciais temporárias e Trust Policy | 🟢 Concluído |
 | 03 | [Amazon S3 — Armazenamento, Versionamento e Gerenciamento](./03%20-%20Amazon%20S3%20Básico,%20Avançado%20e%20Acesso%20a%20Logs/) | S3, versionamento, Lifecycle, Glacier, URLs pré-assinadas e logs de acesso | 🟢 Concluído |
-| 04 | — | — | ⚪ Planejado |
+| 04 | [AWS EC2 — Auto Scaling e Application Load Balancer](./04%20-%20AWS%20Auto%20Scaling%20Group/) | Launch Templates, Auto Scaling Groups, ALB, alta disponibilidade e distribuição de tráfego | 🟢 Concluído |
+| 05 | — | — | ⚪ Planejado |
 
 
 > Esta tabela será atualizada conforme novos laboratórios forem concluídos.
