@@ -116,7 +116,7 @@ Com a carga de CPU em execução, foi acessado o CloudWatch para verificar o est
 
 Após o período de avaliação, a utilização da CPU ultrapassou o limite configurado e o alarme entrou no estado **In alarm**.
 
-![Alarme acionado com uso de CPU em 100%](./22-instancia-em-alarme-100%-de-uso.png)
+![Alarme acionado com uso de CPU em 100%](./22-instancia-em-alarme-100%25-de-uso.png)
 
 Também foi verificado o recebimento da notificação enviada pelo Amazon SNS por e-mail, confirmando a integração entre o CloudWatch e o serviço de notificações.
 
