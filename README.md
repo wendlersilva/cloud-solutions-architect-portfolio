@@ -29,7 +29,8 @@ Os principais objetivos deste portfólio são:
 | 02 | [AWS STS — Credenciais Temporárias](./02%20-%20AWS-STS-Credenciais-Temporarias/) | AWS STS, IAM Role, AssumeRole, credenciais temporárias e Trust Policy | 🟢 Concluído |
 | 03 | [Amazon S3 — Armazenamento, Versionamento e Gerenciamento](./03%20-%20Amazon%20S3%20Básico,%20Avançado%20e%20Acesso%20a%20Logs/) | S3, versionamento, Lifecycle, Glacier, URLs pré-assinadas e logs de acesso | 🟢 Concluído |
 | 04 | [AWS EC2 — Auto Scaling e Application Load Balancer](./04%20-%20AWS%20Auto%20Scaling%20Group/) | Launch Templates, Auto Scaling Groups, ALB, alta disponibilidade e distribuição de tráfego | 🟢 Concluído |
-| 05 | — | — | ⚪ Planejado |
+| 05 | [Amazon EC2 — CloudWatch e SNS](./05-aws-ec2-cloudwatch-sns/) | Monitoramento de CPU, alarmes CloudWatch, notificações SNS e testes com stress-ng | 🟢 Concluído |
+| 06 | — | — | ⚪ Planejado |
 
 
 > Esta tabela será atualizada conforme novos laboratórios forem concluídos.
