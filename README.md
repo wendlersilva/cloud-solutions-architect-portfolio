@@ -32,7 +32,7 @@ Os principais objetivos deste portfólio são:
 | 05 | [Amazon EC2 — CloudWatch e SNS](./05%20-%20AWS%20EC2,%20Cloudwatch%20e%20SNS/) | Monitoramento de CPU, alarmes CloudWatch, notificações SNS e testes com stress-ng | 🟢 Concluído |
 | 06 | [AWS S3, SNS e SQS — Arquitetura Orientada a Eventos](./06%20-%20AWS%20S3,%20SNS%20e%20SQS/) | Notificações de eventos S3, SNS, SQS, fan-out e políticas de acesso | 🟢 Concluído |
 | 07 | [AWS Serverless — Memory Game](./07%20-%20AWS%20Jogo%20da%20Memória%20na%20Nuvem/) | S3 Static Website, API Gateway, Lambda, DynamoDB, IAM e arquitetura serverless | 🟢 Concluído |
-| 08 | — | — | ⚪ Planejado |
+| 08 | [AWS — Arquitetura de Aplicação Web em Três Camadas](./08%20-%20AWS%20Arquitetura%20Tres%20Camadas/) | EC2, Application Load Balancer, SQS, DynamoDB, IAM, VPC e arquitetura de três camadas | 🟡 Em andamento |
 
 
 > Esta tabela será atualizada conforme novos laboratórios forem concluídos.
